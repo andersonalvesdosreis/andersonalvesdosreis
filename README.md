@@ -1,18 +1,35 @@
-# Oiii! Eu sou o Anderson Alves 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=150&section=header" width="100%"/>
 
-<div align="left">
-  <br>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<div align="center">
+  <h2>Anderson Alves dos Reis ✨</h2>
+  <h3 style="color: #b052d9;">Back end Developer</h3>
+  <p>Transformando ideias em código com criatividade e consistência </p>
 </div>
 
 <br>
 
-<div align="left">
-  
-  <a href="https://www.instagram.com/xx.derson/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:anderson.filho.xap@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/andersonalvesdosreis/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+### 💫 Sobre mim
+Tenho 16 anos e estudo python e C#.<br>
+Tenho focado em desenvolvimento back-end, criando projetos, aprendendo com erros e evoluindo todos os dias 🚀
+
+<br>
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Ilustração de um laptop neon"/>
+
+### 🧠 Tecnologias
+<div>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c#" alt="Tecnologias" />
+  </a>
 </div>
+
+<br>
+
+### ⚙️ Ferramentas
+<div>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Ferramentas" />
+  </a>
+</div>
+
+<br><br>
