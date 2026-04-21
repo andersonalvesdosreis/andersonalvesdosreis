@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>Anderson Alves</h1>
-  <h3 style="color: #b052d9;">data analysis</h3>
+  <h3 style="color: #b052d9;">Data analyst</h3>
   <p>Transformando ideias em código com criatividade e consistência </p>
 </div>
 
