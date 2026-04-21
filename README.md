@@ -2,15 +2,15 @@
 
 <div align="center">
   <h2>Anderson Alves dos Reis ✨</h2>
-  <h3 style="color: #b052d9;">data analysisr</h3>
+  <h3 style="color: #b052d9;">data analysis</h3>
   <p>Transformando ideias em código com criatividade e consistência </p>
 </div>
 
 <br>
 
 ### 💫 Sobre mim
-Tenho 16 anos e estudo python e C#.<br>
-Tenho focado em desenvolvimento back-end, criando projetos, aprendendo com erros e evoluindo todos os dias 🚀
+Tenho 16 anos e estudo python, power bi, sql.<br>
+Tenho focado em data analysis, criando projetos, aprendendo com erros e evoluindo todos os dias 🚀
 
 <br>
 
@@ -19,7 +19,7 @@ Tenho focado em desenvolvimento back-end, criando projetos, aprendendo com erros
 ### 🧠 Tecnologias
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c#" alt="Tecnologias" />
+    <img src="https://skillicons.dev/icons?i=python" alt="Tecnologias" />
   </a>
 </div>
 
@@ -28,8 +28,6 @@ Tenho focado em desenvolvimento back-end, criando projetos, aprendendo com erros
 ### ⚙️ Ferramentas
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Ferramentas" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,powerbi,mysql" alt="Ferramentas" />
   </a>
 </div>
-
-<br><br>
