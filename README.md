@@ -2,7 +2,7 @@
 
 <div align="center">
   <h2>Anderson Alves dos Reis ✨</h2>
-  <h3 style="color: #b052d9;">Back end Developer</h3>
+  <h3 style="color: #b052d9;">data analysisr</h3>
   <p>Transformando ideias em código com criatividade e consistência </p>
 </div>
 
