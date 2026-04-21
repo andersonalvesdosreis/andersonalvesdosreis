@@ -28,6 +28,6 @@ Tenho focado em data analysis, criando projetos, aprendendo com erros e evoluind
 ### ⚙️ Ferramentas
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,powerbi,mysql" alt="Ferramentas" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,mysql" alt="Ferramentas" />
   </a>
 </div>
