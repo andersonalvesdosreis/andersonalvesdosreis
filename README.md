@@ -9,7 +9,7 @@
 <br>
 
 ### 💫 Sobre mim
-Tenho 16 anos e estudo python, power bi, sql.<br>
+Tenho 16 anos e estudo python, power bi, sql, aws.<br>
 Tenho focado em data analysis, criando projetos, aprendendo com erros e evoluindo todos os dias 🚀
 
 <br>
