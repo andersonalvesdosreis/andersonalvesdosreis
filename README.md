@@ -2,15 +2,15 @@
 
 <div align="center">
   <h1>Anderson Alves</h1>
-  <h3 style="color: #b052d9;">Data analyst</h3>
+  <h3 style="color: #b052d9;">AI manager</h3>
   <p>Transformando ideias em código com criatividade e consistência </p>
 </div>
 
 <br>
 
 ### 💫 Sobre mim
-Tenho 16 anos e estudo python, power bi, sql, aws.<br>
-Tenho focado em data analysis, criando projetos, aprendendo com erros e evoluindo todos os dias 🚀
+Tenho 16 anos e estudo python, sql, aws.<br>
+Tenho focado em AI manager, criando projetos, aprendendo com erros e evoluindo todos os dias 🚀
 
 <br>
 
