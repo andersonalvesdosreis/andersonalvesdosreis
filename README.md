@@ -25,9 +25,19 @@ Tenho focado em AI manager, criando projetos, aprendendo com erros e evoluindo t
 
 <br>
 
-### ⚙️ Ferramentas
+### 🌐 Ferramentas
 <div>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,mysql" alt="Ferramentas" />
   </a>
+</div>
+
+### 📊 Meu Desempenho
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonalvesdosreis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonalvesdosreis&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andersonalvesdosreis&theme=dracula" alt="GitHub Streak" />
 </div>
