@@ -9,7 +9,7 @@
 <br>
 
 ### 💫 Sobre mim
-Uso a linguagem Python e algumas ferramentas como: Git, GitHub, VScode, MYqsl e Linux.<br>
+Uso a linguagem Python e algumas ferramentas como: Git, GitHub, VScode, MySql e Linux.<br>
 Tenho focado em AI manager, criando projetos, aprendendo com erros e evoluindo todos os dias 🚀
 
 <br>
