@@ -28,7 +28,7 @@ Tenho focado em AI manager, criando projetos, aprendendo com erros e evoluindo t
 ### 🌐 Ferramentas
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" alt="Ferramentas" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,linux" alt="Ferramentas" />
   </a>
 </div>
 
