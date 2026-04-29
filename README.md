@@ -9,7 +9,7 @@
 <br>
 
 ### 💫 Sobre mim
-Tenho 16 anos e estudo python, sql, aws.<br>
+Uso a linguagem Python e algumas ferramentas como: Git, GitHub, VScode, MYqsl e Linux.<br>
 Tenho focado em AI manager, criando projetos, aprendendo com erros e evoluindo todos os dias 🚀
 
 <br>
@@ -28,7 +28,7 @@ Tenho focado em AI manager, criando projetos, aprendendo com erros e evoluindo t
 ### 🌐 Ferramentas
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,mysql" alt="Ferramentas" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" alt="Ferramentas" />
   </a>
 </div>
 
