@@ -3,20 +3,20 @@
 <div align="center">
   <h1>Anderson Alves</h1>
   <h3 style="color: #b052d9;">AI manager</h3>
-  <p>Transformando ideias em código com criatividade e consistência </p>
+  <p>Transforming ideas into code with creativity and consistency. </p>
 </div>
 
 <br>
 
-### 👤 Sobre mim
-Uso a linguagem Python e algumas ferramentas como: Git, GitHub, VScode, MySql e Linux.<br>
-Tenho focado em AI manager, criando projetos, aprendendo com erros e evoluindo todos os dias 🚀
+### 👤 About me
+I use the Python programming language and some tools such as: Git, GitHub, VS Code, MySQL, and Linux.<br>
+I've been focusing on AI management, creating projects, learning from mistakes, and evolving every day. 🚀
 
 <br>
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Ilustração de um laptop neon"/>
 
-### 🧠 Tecnologias
+### 🧠 Technologies
 <div>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python" alt="Tecnologias" />
@@ -25,21 +25,21 @@ Tenho focado em AI manager, criando projetos, aprendendo com erros e evoluindo t
 
 <br>
 
-### ⚙️ Ferramentas
+### ⚙️ Tools
 <div>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,linux" alt="Ferramentas" />
   </a>
 </div>
 
-### 🌐 Redes Sociais
+### 🌐 Get in touch
 <div>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=instagram,linkedin" alt="Ferramentas" />
   </a>
 </div>
 
-### 📊 Meu Desempenho
+### 📊 My Performance
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonalvesdosreis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonalvesdosreis&layout=compact&langs_count=7&theme=dracula"/>
