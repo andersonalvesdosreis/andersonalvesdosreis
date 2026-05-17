@@ -48,3 +48,9 @@
 ![Git](https://img.shields.io/badge/Git-0B2447?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-0B2447?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0B2447?style=flat&logo=visual-studio-code&logoColor=white)
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B2447&height=150&section=footer" alt="GitHub Banner Bottom" width="100%">
+</div>
