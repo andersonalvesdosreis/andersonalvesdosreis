@@ -49,6 +49,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-0B2447?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0B2447?style=flat&logo=visual-studio-code&logoColor=white)
 
+![gifgithub](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
+
 ## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians Emoji" width="30px" align="center" /> Get in touch:</div>
   
 
