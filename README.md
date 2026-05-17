@@ -1,38 +1,50 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=150&section=header" width="100%"/>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=andersonalvesdosreis&color=7b2cbf&style=flat-square" alt="Profile views" />
-</p>
-
-# 🚀 Hi, I'm Anderson Alves!
-
-### AI Manager | Transforming ideas into code with creativity and consistency.
-
-<br>
-
-<table border="0">
-  <tr>
-    <td width="60%" valign="top">
-      <h3>👤 About Me</h3>
-      <ul>
-        <li>🌍 Based in <b>Brazil</b></li>
-        <li>🧠 Focusing on <b>AI management</b>, orchestrating smart projects and intelligent workflows.</li>
-        <li>💻 Creating projects, learning from mistakes, and evolving every day.</li>
-        <li>⚡ Core Stack: <b>Python</b> for building automation and smart solutions.</li>
-        <li>🛠️ Everyday tools: <b>Git, GitHub, VS Code, MySQL, and Linux</b>.</li>
-      </ul>
-    </td>
-    <td width="40%" valign="top" align="center">
-      <img src="https://i.giphy.com/qgQUggAC3Pfv687qPC.gif" width="240" alt="Ilustração de um laptop neon"/>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-### 🧠 Technologies & Tools
-<div>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mysql,linux,git,github,vscode" alt="Minhas Tecnologias" />
-  </a>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B2447&height=150&section=header" alt="GitHub Banner" width="100%">
 </div>
+
+<h1>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
+  Hi, I'm <a href="https://github.com/andersonalvesdosreis"><img src="https://github.com/andersonalvesdosreis.png" alt="Anderson's GitHub Avatar" width="60px" style="border-radius: 50%;"/> Anderson</a>!
+  <img align="right" src="https://komarev.com/ghpvc/?username=andersonalvesdosreis&color=0B2447&style=flat-square" alt="GitHub profile views counter">
+</h1>
+
+<div>
+  <img src="https://i.giphy.com/qgQUggAC3Pfv687qPC.gif" width="250px" align="right" alt="Neon laptop gif"/>
+</div>
+
+### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" alt="Rocket Emoji"/> Transforming ideas into code with creativity and consistency.</div> 
+
+<ul>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe Showing Americas" width="25px" align="center" /> Based in <strong>Brazil</strong>
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer Emoji" width="25px" align="center" /> Role: <strong>AI Manager</strong>
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Medal Emoji" width="25px" align="center" /> Creating projects, learning from mistakes, and <strong>evolving every day.</strong>
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain Emoji" width="25px" align="center" /> Orchestrating <strong>intelligent workflows</strong> and smart projects.
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Lightning Emoji" width="25px" align="center" /> Core Stack: <strong>Python, MySQL, and Linux</strong>.
+  </li>
+</ul>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andersonalvesdosreis/andersonalvesdosreis/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andersonalvesdosreis/andersonalvesdosreis/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/andersonalvesdosreis/andersonalvesdosreis/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30px" align="center" alt="Laptop Emoji" /> Technical Skills:</div>
+
+![Python](https://img.shields.io/badge/Python-0B2447?style=flat&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0B2447?style=flat&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0B2447?style=flat&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0B2447?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0B2447?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0B2447?style=flat&logo=visual-studio-code&logoColor=white)
