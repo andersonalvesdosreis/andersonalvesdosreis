@@ -4,7 +4,7 @@
 
 <h1>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
-  Hi, I'm <a href="https://github.com/andersonalvesdosreis"><img src="https://github.com/andersonalvesdosreis.png" alt="Anderson's GitHub Avatar" width="60px" style="border-radius: 50%;"/> Anderson</a>!
+  Hi, I'm <a href="https://github.com/andersonalvesdosreis">  Anderson</a>!
   <img align="right" src="https://komarev.com/ghpvc/?username=andersonalvesdosreis&color=0B2447&style=flat-square" alt="GitHub profile views counter">
 </h1>
 
